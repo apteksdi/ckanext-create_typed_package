@@ -57,7 +57,7 @@ setup(
     namespace_packages=['ckanext'],
 
     install_requires=[
-        "ckantoolkit",
+        'ckantoolkit>=0.0.7',
     ],
 
     # If there are data files included in your packages that need to be
